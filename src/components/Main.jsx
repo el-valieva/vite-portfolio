@@ -7,19 +7,19 @@ const Main = () => {
     <div id="main">
       <img
         className="w-full h-screen object-cover object-left scale-x-[-1]"
-        src="https://mcdn.wallpapersafari.com/medium/34/53/0p3yRI.jpg"
+        src="https://cdn.wallpapersafari.com/35/98/gdQmrF.jpg"
         alt="background"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
-          <h1 className="sm:text-5xl text-4xl font-bold test-gray-800">I&apos;m John Adams</h1>
-          <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
+          <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">Hi, I&apos;m Elena Valieva</h1>
+          <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-700">
             I&apos;m a
             <TypeAnimation
               sequence={[
-                "Developer",
+                "Front End Developer",
                 2000,
-                "Coder",
+                "Books and Travel Lover",
                 2000,
                 "Eager Learner",
                 2000

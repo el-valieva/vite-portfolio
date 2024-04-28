@@ -4,25 +4,27 @@ import WorkItem from "./WorkItem";
 const Work = () => {
   const data = [
     {
-      year: "2020 - current time",
+      year: "Feb 2022 - Jan 2024",
       title: "Front End Software developer",
+      company: "NZME.",
+      duration: "2 years",
+      details:
+        "Contributed to the construction, testing, and deployment of resilient, high-performance applications, ensuring they meet current needs while allowing adaptability for future modifications. Enhanced user experiences on the NZ Herald website by utilizing Javascript, React, CSS/SCSS,TailwindCSS Arc API, and adhering to software engineering standards."    },
+    {
+      year: "Jan 2020 - Feb 2022",
+      title: "Front End Software developer",
+      company: "ecoPortal",
+      duration: "2 year",
+      details:
+        "Delivered engaging user experience through optimization of images, code, and cross-browser compatibility, increasing website performance based on tech SEO. Created dynamic and browser-compatible pages utilizing HTML5, CSS3, jQuery and Javascript.",
+    },
+    {
+      year: "Feb 2009 - Feb 2012",
+      title: "ICT teacher",
+      company: "Professional College of Far Eastern Federal University (FEFU)",
       duration: "3 years",
       details:
-        "Turpis egestas sed tempus urna et pharetra pharetra massa massa. Libero justo laoreet sit amet cursus sit. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros. Accumsan lacus vel facilisis volutpat. Tincidunt lobortis feugiat vivamus at augue. Metus vulputate eu scelerisque felis imperdiet proin fermentum. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus.",
-    },
-    {
-      year: "2019 - 2020",
-      title: "Junior Front End Software developer",
-      duration: "1 year",
-      details:
-        "Vivamus arcu felis bibendum ut tristique et. Risus quis varius quam quisque. Imperdiet proin fermentum leo vel. Pharetra pharetra massa massa ultricies mi quis. Massa placerat duis ultricies lacus sed turpis tincidunt id aliquet.",
-    },
-    {
-      year: "2013 - 2017",
-      title: "ICT teacher",
-      duration: "4 years",
-      details:
-        "Bibendum at varius vel pharetra vel turpis. Id ornare arcu odio ut sem nulla pharetra. Arcu risus quis varius quam quisque id diam vel quam. Commodo odio aenean sed adipiscing diam donec adipiscing tristique. In fermentum posuere urna nec tincidunt praesent semper. Ultricies mi eget mauris pharetra et ultrices neque ornare aenean.",
+        "Formulating study programs, delivering lectures, facilitating practical classes, providing guidance and support for study projects",
     },
   ];
 
